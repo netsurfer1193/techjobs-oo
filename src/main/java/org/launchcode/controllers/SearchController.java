@@ -16,7 +16,7 @@ import java.util.ArrayList;
  */
 @Controller
 @RequestMapping("search")
-public class SearchController {
+public class    SearchController {
 
     private JobData jobData = JobData.getInstance();
 
